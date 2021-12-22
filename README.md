@@ -1,4 +1,4 @@
-# gyt_ui_workz
+# Flutter_ui
 2 ui screens
 Added two screens
 Each have #arrow- buttons for the state management.
